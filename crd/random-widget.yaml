@@ -1,0 +1,8 @@
+apiVersion: example.heptio.com/v1
+kind: Widget
+metadata:
+  name: my-widget
+location:
+  city: seattle
+  place: hotel
+weather: rainy
